@@ -434,6 +434,7 @@ We are looking for maintainers to add more parsers and to write query files for 
 - [x] [soql](https://github.com/aheber/tree-sitter-sfapex) (maintained by @aheber, @xixiaofinland)
 - [x] [sosl](https://github.com/aheber/tree-sitter-sfapex) (maintained by @aheber, @xixiaofinland)
 - [x] [sourcepawn](https://github.com/nilshelmig/tree-sitter-sourcepawn) (maintained by @Sarrus1)
+- [x] [sproto](https://github.com/hanxi/tree-sitter-sproto) (maintained by @hanxi)
 - [x] [sparql](https://github.com/GordianDziwis/tree-sitter-sparql) (maintained by @GordianDziwis)
 - [x] [sql](https://github.com/derekstride/tree-sitter-sql) (maintained by @derekstride)
 - [x] [squirrel](https://github.com/amaanq/tree-sitter-squirrel) (maintained by @amaanq)

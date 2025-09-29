@@ -2186,6 +2186,15 @@ list.sourcepawn = {
   tier = 3,
 }
 
+list.sproto = {
+  install_info = {
+    url = "https://github.com/hanxi/tree-sitter-sproto",
+    files = { "src/parser.c" },
+    branch = "main",
+  },
+  maintainers = { "@hanxi" },
+}
+
 list.sparql = {
   install_info = {
     url = "https://github.com/GordianDziwis/tree-sitter-sparql",
